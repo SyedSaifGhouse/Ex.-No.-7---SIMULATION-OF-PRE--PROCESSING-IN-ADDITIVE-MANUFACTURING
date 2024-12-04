@@ -39,14 +39,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
-## Output:
+![Screenshot 2024-12-04 105649](https://github.com/user-attachments/assets/92bdd83c-725e-4698-ac96-1710e18831d3)
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-04 105621](https://github.com/user-attachments/assets/ee67dbc4-8fc2-4313-a2fd-9d115fdabb4b)
+
+![Screenshot 2024-12-04 105634](https://github.com/user-attachments/assets/8531c004-436d-4a96-b659-d95096b6a698)
+
+### Name: SYED SAIF SYED GHOUSE
+### Register Number: 24009014
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
