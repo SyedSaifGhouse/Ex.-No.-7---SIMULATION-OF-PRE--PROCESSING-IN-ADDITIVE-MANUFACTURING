@@ -46,8 +46,8 @@
 
 ![Screenshot 2024-12-04 105634](https://github.com/user-attachments/assets/8531c004-436d-4a96-b659-d95096b6a698)
 
-### Name: SYED SAIF SYED GHOUSE
-### Register Number: 24009014
+### Name: DEEPAK.S
+### Register Number: 24007241
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
